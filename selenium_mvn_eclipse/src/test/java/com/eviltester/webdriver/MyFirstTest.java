@@ -1,6 +1,7 @@
 package com.eviltester.webdriver;
 /**
  * Basic selenium test.
+ * KWood
  */
 
 import junit.framework.Assert;
