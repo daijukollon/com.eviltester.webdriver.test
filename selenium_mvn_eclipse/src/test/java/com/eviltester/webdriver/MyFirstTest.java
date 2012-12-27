@@ -1,4 +1,7 @@
 package com.eviltester.webdriver;
+/**
+ * Basic selenium test.
+ */
 
 import junit.framework.Assert;
 import org.junit.Test;
